@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body::-webkit-scrollbar {
+  width: 15px;
+  height: 15px;
+  background-color: black;
+}
+body::-webkit-scrollbar-thumb {
+  width: 15px;
+  height: 15px;
+  background-color: white;
+  border-radius: 14px;
+}
+
+.dimmed.dimmable > .ui.modals.dimmer.visible {
+  display: flex !important;
+}
