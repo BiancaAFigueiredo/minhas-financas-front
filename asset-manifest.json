@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/minhas-financas-front/static/css/main.93697b01.chunk.css",
+    "main.js": "/minhas-financas-front/static/js/main.851a7850.chunk.js",
+    "main.js.map": "/minhas-financas-front/static/js/main.851a7850.chunk.js.map",
+    "runtime-main.js": "/minhas-financas-front/static/js/runtime-main.fd515adc.js",
+    "runtime-main.js.map": "/minhas-financas-front/static/js/runtime-main.fd515adc.js.map",
+    "static/css/2.11f554b9.chunk.css": "/minhas-financas-front/static/css/2.11f554b9.chunk.css",
+    "static/js/2.11b410cb.chunk.js": "/minhas-financas-front/static/js/2.11b410cb.chunk.js",
+    "static/js/2.11b410cb.chunk.js.map": "/minhas-financas-front/static/js/2.11b410cb.chunk.js.map",
+    "index.html": "/minhas-financas-front/index.html",
+    "static/css/2.11f554b9.chunk.css.map": "/minhas-financas-front/static/css/2.11f554b9.chunk.css.map",
+    "static/css/main.93697b01.chunk.css.map": "/minhas-financas-front/static/css/main.93697b01.chunk.css.map",
+    "static/js/2.11b410cb.chunk.js.LICENSE.txt": "/minhas-financas-front/static/js/2.11b410cb.chunk.js.LICENSE.txt",
+    "static/media/Coins_Flatline.75f7cded.png": "/minhas-financas-front/static/media/Coins_Flatline.75f7cded.png",
+    "static/media/Credit Card_Flatline.82378e74.png": "/minhas-financas-front/static/media/Credit Card_Flatline.82378e74.png",
+    "static/media/semantic.min.css": "/minhas-financas-front/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/grocery-store.04a99888.jpg": "/minhas-financas-front/static/media/grocery-store.04a99888.jpg",
+    "static/media/piggy-bank-2889046_1920.d319764a.jpg": "/minhas-financas-front/static/media/piggy-bank-2889046_1920.d319764a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fd515adc.js",
+    "static/css/2.11f554b9.chunk.css",
+    "static/js/2.11b410cb.chunk.js",
+    "static/css/main.93697b01.chunk.css",
+    "static/js/main.851a7850.chunk.js"
+  ]
+}
